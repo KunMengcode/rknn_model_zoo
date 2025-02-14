@@ -49,5 +49,5 @@ paddle2onnx --model_dir output_inference/ppyoloe_plus_crn_s_80e_coco --model_fil
 
 #### 3.3 ONNX 模型转为 RKNN 模型
 
-- 请参考 [README.md](../../README.md) 的说明
+- 请参考 [README.md](../README.md) 的说明
 
